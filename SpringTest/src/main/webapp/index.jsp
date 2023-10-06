@@ -1,6 +1,6 @@
 
 <html>
 <body>
-	<a href="home">Click here ...</a>
+    <a href="home">Click here ...</a>
 </body>
 </html>

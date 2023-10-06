@@ -17,7 +17,8 @@
   
   
   <div class="container mt-5">
-  
+  <h1 class="text-center">${Header }</h1>
+  <p class="text-center">${Des }</p>
   <h1 class="text-center">Registration From</h1>
     <form action="processfrom" method="post">
  	

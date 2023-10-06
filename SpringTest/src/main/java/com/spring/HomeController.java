@@ -13,7 +13,7 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 public class HomeController {
 	
-	@RequestMapping(path="/home",method = RequestMethod.GET)
+	@RequestMapping("/home")
 	public String Home(Model model)
 	{
 		System.out.println("this is home url");
