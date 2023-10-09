@@ -31,5 +31,6 @@
 	
 	
 	<a href="about"> About Page ..</a>
+	<a href="send"> Send Page ..</a>
 </body>
 </html>

@@ -22,7 +22,7 @@
   <h1 class="text-center">${Header }</h1>
   <p class="text-center">${Des }</p>
   <h1 class="text-center">Registration From</h1>
-    <form action="processfrom" method="post">
+    <form action="acc" method="post">
     <div class="alert alert-warning" role="alert">
           
           <form:errors path="user.*"></form:errors>
